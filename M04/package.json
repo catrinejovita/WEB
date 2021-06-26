@@ -1,0 +1,14 @@
+{
+  "name": "m04",
+  "version": "1.0.0",
+  "description": "minggu 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Catrine",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0"
+  }
+}
