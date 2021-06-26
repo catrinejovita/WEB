@@ -7,7 +7,7 @@ var logger = require("morgan");
 
 
 const mymiddleware = (req,res,next)=>{
-    if(req.params.nim = 181110085){
+    if(req.params.nim === 181110085){
         console.log("NIM sudah benar");
         const err = {
             nama: "181110085",
